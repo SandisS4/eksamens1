@@ -1,0 +1,1 @@
+jauna funkcija 1
